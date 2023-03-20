@@ -1,0 +1,15 @@
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\bin\Debug\net6.0\exampl.exe
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\bin\Debug\net6.0\exampl.deps.json
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\bin\Debug\net6.0\exampl.runtimeconfig.json
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\bin\Debug\net6.0\exampl.dll
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\bin\Debug\net6.0\exampl.pdb
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.csproj.AssemblyReference.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.AssemblyInfoInputs.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.AssemblyInfo.cs
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.csproj.CoreCompileInputs.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.dll
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\refint\exampl.dll
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.pdb
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\exampl.genruntimeconfig.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\exampl\obj\Debug\net6.0\ref\exampl.dll
