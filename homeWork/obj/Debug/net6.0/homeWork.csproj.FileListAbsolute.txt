@@ -1,0 +1,15 @@
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.csproj.AssemblyReference.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.AssemblyInfoInputs.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.AssemblyInfo.cs
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.csproj.CoreCompileInputs.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\bin\Debug\net6.0\homeWork.exe
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\bin\Debug\net6.0\homeWork.deps.json
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\bin\Debug\net6.0\homeWork.runtimeconfig.json
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\bin\Debug\net6.0\homeWork.dll
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\bin\Debug\net6.0\homeWork.pdb
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.dll
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\refint\homeWork.dll
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.pdb
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\homeWork.genruntimeconfig.cache
+C:\Users\dobroStas\Desktop\repo\C#Lesson7\homeWork\obj\Debug\net6.0\ref\homeWork.dll
